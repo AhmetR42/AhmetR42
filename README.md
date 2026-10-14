@@ -10,7 +10,7 @@ I'm a second-year MBO ICT student in the Netherlands, looking for a **full-stack
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/AhmetR42/centwise"><img src="assets/centwise.webp" alt="Centwise"></a>
-      <h3><a href="https://github.com/AhmetR42/centwise">Centwise</a></h3>
+      <h3><a href="https://github.com/AhmetR42/centwise">Centwise</a> · <a href="https://centwise-5y03.onrender.com/">live demo</a></h3>
       A budget app: a Laravel REST API with a JavaScript dashboard on top. Monthly budgets, a spending-pace chart and savings goals.<br><br>
       <code>Laravel</code> <code>Sanctum</code> <code>JavaScript</code> <code>SVG</code> <code>Docker</code>
     </td>
@@ -24,7 +24,7 @@ I'm a second-year MBO ICT student in the Netherlands, looking for a **full-stack
   <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/AhmetR42/applytrack"><img src="assets/applytrack.webp" alt="ApplyTrack"></a>
-      <h3><a href="https://github.com/AhmetR42/applytrack">ApplyTrack</a></h3>
+      <h3><a href="https://github.com/AhmetR42/applytrack">ApplyTrack</a> · <a href="https://applytrack-5b30.onrender.com/">live demo</a></h3>
       Keeps every internship application in one place, with a status timeline, a dashboard and CSV export.<br><br>
       <code>Laravel</code> <code>PHP</code> <code>SQLite</code> <code>Blade</code> <code>PHPUnit</code>
     </td>
